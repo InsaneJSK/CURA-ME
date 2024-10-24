@@ -1,0 +1,36 @@
+FAQ for Cura Me
+1. What is Cura Me?
+Cura Me is a health application designed to provide users with personalized medicine recommendations based on reported symptoms. It also suggests nearby hospitals, clinics, and pharmacies, along with potential causes and treatments.
+
+2. How does Cura Me work?
+Users input their symptoms and any known allergies. The app analyzes this information and provides tailored medicine recommendations, alternative options for those with allergies, and nearby healthcare facilities.
+
+3. Is Cura Me a substitute for professional medical advice?
+No, Cura Me is not a substitute for professional medical advice, diagnosis, or treatment. It is designed to assist users in finding relevant information and should always be used in conjunction with advice from healthcare professionals.
+
+4. How accurate are the medicine recommendations?
+The recommendations are based on a combination of medical databases and algorithms. While we strive for high accuracy, individual responses to medication can vary, so it's important to consult a doctor or pharmacist before making any changes to your treatment.
+
+5. What should I do if I experience side effects from a recommended medicine?
+If you experience any side effects, stop taking the medicine and seek immediate medical attention. Report any adverse reactions to your healthcare provider.
+
+6. How does Cura Me ensure the reliability of its information?
+Cura Me utilizes reputable medical sources and guidelines to generate recommendations. Our team continuously updates the database to reflect current medical knowledge and practices.
+
+7. Can I trust the nearby hospitals and clinics suggested by Cura Me?
+The app provides a list of nearby healthcare facilities based on user location. We source this information from public databases, but we recommend checking the facility's reviews and credentials before visiting.
+
+8. What if I don’t find my symptoms listed in the app?
+If your symptoms are not listed, we recommend consulting a healthcare professional for a thorough evaluation. The app is designed to cover common symptoms, but it may not encompass all possible conditions.
+
+9. Is my personal health information safe with Cura Me?
+Yes, we prioritize user privacy and data security. All personal information is encrypted and stored securely, and we comply with relevant data protection regulations.
+
+10. How can I provide feedback or report issues with the app?
+We welcome user feedback! You can contact our support team through the app or visit our website for assistance.
+
+11. Are there any costs associated with using Cura Me?
+Cura Me is free to download and use. However, some features or services may incur charges, which will be clearly indicated within the app.
+
+12. What should I do in a medical emergency?
+In case of a medical emergency, please call emergency services or visit the nearest hospital immediately. Cura Me is not designed for emergency situations.
