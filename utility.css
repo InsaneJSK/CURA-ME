@@ -127,3 +127,8 @@ nav ul li {
     font-family: "Oswald", sans-serif;
     font-size: 20px;
 }
+.cont{
+display: flex;
+justify-content: center;
+gap: 40px;
+}
