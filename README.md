@@ -4,7 +4,7 @@
 
 ## 🌐 Website
 
-Explore the live application: [CURA-ME Website](https://curame.netlify.app/)
+Explore the live application and chatbot: [CURA-ME Website](https://curame.netlify.app/)
 
 ---
 
@@ -18,14 +18,9 @@ Here’s a glimpse of the features that make CURA-ME your go-to health companion
 ### **Allergy Alerts**
 - Flags known allergies to avoid adverse reactions to medications.  
 
-### **Local Healthcare Nearby**
-- Lists nearby medical facilities for quick and easy access.
-
 ### **Treatment & Remedies**
-- Suggests over-the-counter or prescription options for common ailments.
+- Suggests over-the-counter medicines but can not provide prescription for safety purposes.
 
-### **Educational Resources**
-- Provides articles and videos on medical conditions, causes, and treatments to empower users with knowledge.
 
 ---
 
@@ -34,6 +29,8 @@ Here’s a glimpse of the features that make CURA-ME your go-to health companion
 - **Frontend**: HTML5, CSS3, javascript
 - **Backend**: Python, Transformers, Gradio
 - **Deployment**: Netlify
+- **Chatbot**: Python, Transformers
+- **Chatbot Deployment**: Gradio, HuggingFace Spaces
 
 ---
 
@@ -59,7 +56,7 @@ We are grateful to the following contributors for their efforts:
 - [Mohit Sharma](https://www.linkedin.com/in/mohit-sharma-773699325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 
 ### **Backend Development**
-- [Jaspreet Singh Kohli](https://www.linkedin.com/in/jaspreet-singh-b091202a7/)
+- [Jaspreet Singh](https://www.linkedin.com/in/jaspreet-singh-b091202a7/)
 
 ---
 
