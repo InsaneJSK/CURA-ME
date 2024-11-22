@@ -1,5 +1,4 @@
-# CURA-ME
-
+# <p align="center"><img width="360" height="130" src="https://github.com/user-attachments/assets/deeaf212-dd95-4e79-adf6-5adb8a5cd6b5"></p>
 **CURA-ME** is an innovative digital platform designed to empower users with personalized medical information and solutions based on their specific symptoms. By analyzing user inputs related to symptoms, known allergies, and health history, CURA-ME provides tailored recommendations for medications, potential causes of ailments, and nearby healthcare facilities.
 
 ## 🌐 Website
